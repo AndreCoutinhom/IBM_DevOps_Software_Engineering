@@ -40,7 +40,7 @@ This software engineering professional certificate is suitable for those with no
 * Introduction to Cloud Computing
 * Agile and Scrum Fundamentals
 * Linux Commands & Shell Scripting
-* Git and GitHub Basics
+* [Git and GitHub Basics](https://github.com/AndreCoutinhom/Git_Github_intro)
 * Python Basics for Data Science
 * Python for AI & Development Project
 * Introduction to Containers, Kubernetes and OpenShift
