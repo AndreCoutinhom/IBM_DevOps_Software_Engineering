@@ -1,6 +1,6 @@
 # IBM's DevOps and Software Engineering Professional Certificate
 
-![image](https://github.com/AndreCoutinhom/IBM_DevOps_Software_Engineering/assets/91290799/d67c5962-f81d-48dd-9d57-c95b688265df)
+![image](https://github.com/AndreCoutinhom/IBM_DevOps_Software_Engineering/assets/91290799/985d2c6b-e6db-45b9-9b9d-b300ff4a0c85)
 
 ## What you will learn
 
