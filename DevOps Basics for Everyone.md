@@ -1,3 +1,7 @@
+# DevOps Basics for Everyone
+> ROFRANO, John. DevOps Basics for Everyone. IBM Skills Academy, 2023.
+
+
 # Welcome
 
 Throughout this course, we will look at how businesses are being affected by disruption
