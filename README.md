@@ -35,7 +35,7 @@ This software engineering professional certificate is suitable for those with no
 
 ## Courses:
 
-* Software Engineering Basics for Everyone
+* [Software Engineering Basics for Everyone](/Software%20Engineering%20Basics%20for%20Everyone.pdf)
 * DevOps Basics for Everyone
 * Introduction to Cloud Computing
 * Agile and Scrum Fundamentals
